@@ -1,4 +1,6 @@
 # 📊 Dashboard de Vendas — Xbox Game Pass (2024)
+<img width="1078" height="656" alt="image" src="https://github.com/user-attachments/assets/bae0070a-d405-45a6-a5a2-6b9edd029c4d" />
+
 ## 🎯 Objetivo
 Este projeto tem como finalidade a criação de um dashboard interativo no Excel, utilizando uma base de dados fictícia de assinaturas do serviço Xbox Game Pass ao longo do ano de 2024. O foco está na organização e visualização dos dados para facilitar a análise de desempenho comercial e apoiar a tomada de decisões.
 
